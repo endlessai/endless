@@ -8,11 +8,11 @@ from chatterbot import ChatBot # import the chat bot
 
 client = discord.Client()
 
-bot = ChatBot('Endless') #creates chatbot
+chatbot = ChatBot('Endless', storage_adapter='chatterbot.storage.SQLStorageAdapter',database='./database.sqlite3',)
 
-bot.set_trainer(ChatterBotCorpusTrainer)
+chatbot.set_trainer(ChatterBotCorpusTrainer)
 
-bot.train(
+chatbot.train(
     "chatterbot.corpus.english"
 )
 
@@ -33,9 +33,8 @@ while True:
         if message.content.startswith('!chat'):
                 new_input = message.content[6:]
                 print(new_input)
-                response = bot.get_response(new_input)
+                response = chatbot.get_response(new_input)
                 await client.send_message(message.channel, response)
                 print(response)
-
+    
     client.run(os.getenv('TOKEN'))
-
