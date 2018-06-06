@@ -8,7 +8,7 @@ from chatterbot import ChatBot # import the chat bot
 
 client = discord.Client()
 
-bot = ChatBot('Test') #creates chatbot
+bot = ChatBot('Endless') #creates chatbot
 
 bot.set_trainer(ListTrainer) # set the trainer
 
