@@ -18,13 +18,6 @@ bot.train(
     "chatterbot.corpus.health"
 )
 
-for _file in os.listdir('files'):
-    chats = open('files/' +_file, 'r').readlines()
-    if not os.path.isfile('files/' +_file):
-
-        bot.train(chats)
-
-
 while True:
 
     @client.event
