@@ -13,8 +13,7 @@ bot = ChatBot('Endless') #creates chatbot
 bot.set_trainer(ChatterBotCorpusTrainer)
 
 bot.train(
-    "chatterbot.corpus.english",
-    "chatterbot.corpus.english.conversations"
+    "chatterbot.corpus.english"
 )
 
 while True:
@@ -35,8 +34,7 @@ while True:
                 new_input = message.content[6:]
                 print(new_input)
                 response = bot.get_response(new_input)
-                msg = response
-                await client.send_message(message.channel, msg)
+                await client.send_message(message.channel, response)
                 print(response)
 
     client.run(os.getenv('TOKEN'))
