@@ -3,20 +3,27 @@ import asyncio
 import random
 import pickle
 import os
-from chatterbot.trainers import ListTrainer #method to train the bot
+from chatterbot.trainers import ChatterBotCorpusTrainer #method to train the bot
 from chatterbot import ChatBot # import the chat bot
 
 client = discord.Client()
 
 bot = ChatBot('Endless') #creates chatbot
 
-bot.set_trainer(ListTrainer) # set the trainer
+bot.set_trainer(ChatterBotCorpusTrainer)
+
+bot.train(
+    "chatterbot.corpus.english",
+    "chatterbot.corpus.english.conversations",
+    "chatterbot.corpus.health"
+)
 
 for _file in os.listdir('files'):
     chats = open('files/' +_file, 'r').readlines()
     if not os.path.isfile('files/' +_file):
 
         bot.train(chats)
+
 
 while True:
 
