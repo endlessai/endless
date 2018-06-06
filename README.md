@@ -1,1 +1,2 @@
-# endless
+# main
+Endless AI
