@@ -14,8 +14,7 @@ bot.set_trainer(ChatterBotCorpusTrainer)
 
 bot.train(
     "chatterbot.corpus.english",
-    "chatterbot.corpus.english.conversations",
-    "chatterbot.corpus.health"
+    "chatterbot.corpus.english.conversations"
 )
 
 while True:
