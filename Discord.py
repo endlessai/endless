@@ -24,7 +24,7 @@ chatbot = ChatBot(
                 'import_path': 'chatterbot.logic.LowConfidenceAdapter',
                 'threshold': 0.05,
                 'default_response': 'I am sorry, but I do not understand.'
-            },
+            }
     ],
     preprocessors=[
         'chatterbot.preprocessors.clean_whitespace'
