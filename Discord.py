@@ -23,8 +23,8 @@ chatbot = ChatBot(
             },
             {
                 'import_path': 'chatterbot.logic.LowConfidenceAdapter',
-                'threshold': 0.05,
-                'default_response': 'I am sorry, but I do not understand.'
+                'threshold': 0.10,
+                'default_response': 'I do not understand.'
             },
 
 
@@ -63,18 +63,5 @@ while True:
                 response = chatbot.get_response(new_input)
                 await client.send_message(message.channel, response)
                 print(response)
-
-
-    @client.event
-    async def on_message(message):
-        if message.author == client.user:
-            return
-
-        if message.content.startswith('!time'):
-            localtime = time.localtime(time.time())
-            print
-            "Local current time :", localtime
-        await client.send_message(message.channel, localtime)
-        print(localtime)
 
     client.run(os.getenv('TOKEN'))
