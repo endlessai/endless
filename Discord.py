@@ -8,7 +8,28 @@ from chatterbot import ChatBot # import the chat bot
 
 client = discord.Client()
 
-chatbot = ChatBot('Endless', storage_adapter='chatterbot.storage.SQLStorageAdapter',database='./database.sqlite3',)
+chatbot = ChatBot(
+    'Endless',
+    storage_adapter='chatterbot.storage.SQLStorageAdapter',
+    database='./database.sqlite3',
+    logic_adapters=[
+            'chatterbot.logic.MathematicalEvaluation',
+            'chatterbot.logic.TimeLogicAdapter',
+            {
+                'import_path': 'chatterbot.logic.BestMatch',
+                'statement_comparison_function': 'chatterbot.comparisons.levenshtein_distance',
+            }
+    ],
+    preprocessors=[
+        'chatterbot.preprocessors.clean_whitespace'
+    ],
+    filters=[
+        'chatterbot.filters.RepetitiveResponseFilter'
+    ],
+    input_adapter='chatterbot.input.VariableInputTypeAdapter',
+    output_adapter="chatterbot.output.OutputAdapter",
+    output_format="text",
+)
 
 chatbot.set_trainer(ChatterBotCorpusTrainer)
 
@@ -36,5 +57,5 @@ while True:
                 response = chatbot.get_response(new_input)
                 await client.send_message(message.channel, response)
                 print(response)
-    
-    client.run(os.getenv('TOKEN'))
+
+    client.run('NDUzNzE4MzAzMTI3NTAyODYw.DfjxRw.0Er48w6JASz8z9THirDyJTZy-LY')
