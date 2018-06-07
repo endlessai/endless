@@ -14,10 +14,22 @@ chatbot = ChatBot(
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
     database='./database.sqlite3',
     logic_adapters=[
+            'chatterbot.logic.MathematicalEvaluation',
+            'chatterbot.logic.TimeLogicAdapter',
 
             {
                 'import_path': 'chatterbot.logic.BestMatch',
                 'statement_comparison_function': 'chatterbot.comparisons.levenshtein_distance',
+                'response_selection_method': 'chatterbot.response_selection.get_first_response'
+            },
+            {
+                'import_path': 'chatterbot.logic.LowConfidenceAdapter',
+                'threshold': 0.65,
+                'default_response': 'I am sorry, but I do not understand.'
+            },
+
+            {
+
             }
     ],
     preprocessors=[
@@ -32,10 +44,7 @@ chatbot = ChatBot(
 )
 
 chatbot.set_trainer(ChatterBotCorpusTrainer)
-
-chatbot.train(
-    "chatterbot.corpus.english"
-)
+chatbot.train("chatterbot.corpus.english")
 
 while True:
 
