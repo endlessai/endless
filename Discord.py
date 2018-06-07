@@ -4,9 +4,7 @@ import random
 import pickle
 import os
 import time
-import wikipedia
 from chatterbot.trainers import ChatterBotCorpusTrainer #method to train the bot
-from chatterbot.conversation import Statement
 from chatterbot import ChatBot # import the chat bot
 
 
@@ -69,11 +67,4 @@ while True:
             localtime = time.asctime(time.localtime(time.time()))
             await client.send_message(message.channel, localtime)
         
-        elif message.author == client.user:
-            return
-        elif message.content.startswith('!wiki'):
-            wiki_input = message.content[6:]
-            response = wiki_input(wikipedia.summary)
-            await client.send_message(message.channel, response)
-
     client.run(os.getenv('TOKEN'))
