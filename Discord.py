@@ -19,8 +19,6 @@ chatbot = ChatBot(
                 'import_path': 'chatterbot.logic.BestMatch',
                 'statement_comparison_function': 'chatterbot.comparisons.levenshtein_distance',
             }
-        'chatterbot.logic.MathematicalEvaluation',
-        'chatterbot.logic.TimeLogicAdapter',
     ],
     preprocessors=[
         'chatterbot.preprocessors.clean_whitespace'
