@@ -41,6 +41,7 @@ chatbot = ChatBot(
 )
 
 chatbot.set_trainer(ChatterBotCorpusTrainer)
+chatbot.train("chatterbot.corpus.english")
 
 
 while True:
