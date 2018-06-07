@@ -3,6 +3,7 @@ import asyncio
 import random
 import pickle
 import os
+import time
 from chatterbot.trainers import ChatterBotCorpusTrainer #method to train the bot
 from chatterbot import ChatBot # import the chat bot
 
@@ -24,6 +25,12 @@ chatbot = ChatBot(
                 'import_path': 'chatterbot.logic.LowConfidenceAdapter',
                 'threshold': 0.05,
                 'default_response': 'I am sorry, but I do not understand.'
+            },
+            {
+                localtime = time.localtime(time.time())
+                'import_path': 'chatterbot.logic.SpecificResponseAdapter',
+                'input_text': 'What time is it?', 'What time is it' , 'time?', 'time', "what's the time?", "What's the time?", "whats the time"
+                'output_text': 'The time is: ', localtime
             }
     ],
     preprocessors=[
