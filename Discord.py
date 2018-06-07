@@ -19,19 +19,18 @@ chatbot = ChatBot(
             {
                 'import_path': 'chatterbot.logic.BestMatch',
                 'statement_comparison_function': 'chatterbot.comparisons.levenshtein_distance',
-                'response_selection_method': 'chatterbot.response_selection.get_random_response'
+                'response_selection_method': 'chatterbot.response_selection.get_most_frequent_response'
             },
             {
                 'import_path': 'chatterbot.logic.LowConfidenceAdapter',
                 'threshold': 0.20,
-                'default_response': 'I do not understand.'
+                'default_response': 'What?'
             },
 
 
     ],
     preprocessors=[
-        'chatterbot.preprocessors.clean_whitespace','chatterbot.preprocessors.unescape_html',
-        'chatterbot.preprocessors.convert_to_ascii'
+        'chatterbot.preprocessors.clean_whitespace', 'chatterbot.preprocessors.convert_to_ascii'
     ],
     filters=[
         'chatterbot.filters.RepetitiveResponseFilter'
@@ -68,5 +67,6 @@ while True:
         elif message.content.startswith('!time'):
             localtime = time.asctime(time.localtime(time.time()))
             await client.send_message(message.channel, localtime)
+
         
     client.run(os.getenv('TOKEN'))
