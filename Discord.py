@@ -63,5 +63,8 @@ while True:
                 response = chatbot.get_response(new_input)
                 await client.send_message(message.channel, response)
                 print(response)
+        elif message.content.startswith('!time'):
+            localtime = time.asctime(time.localtime(time.time()))
+            await client.send_message(message.channel, localtime)
 
-    client.run(os.getenv('TOKEN'))
+client.run(os.getenv('TOKEN'))
