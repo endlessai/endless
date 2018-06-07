@@ -48,6 +48,10 @@ def wiki_summary(arg):
         return definition
 
 chatbot.set_trainer(ChatterBotCorpusTrainer)
+chatbot.train(
+    "chatterbot.corpus.english.greetings",
+    "chatterbot.corpus.english.conversations"
+)
 
 
 while True:
