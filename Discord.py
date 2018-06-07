@@ -4,7 +4,6 @@ import random
 import pickle
 import os
 import wikipedia
-
 import time
 from chatterbot.trainers import ChatterBotCorpusTrainer #method to train the bot
 from chatterbot import ChatBot # import the chat bot
@@ -43,13 +42,13 @@ chatbot = ChatBot(
     output_format="text",
 )
 def wiki_summary(arg):
-        definition = wikipedia.summary(arg, sentences=1, chars=100, 
-        
+        definition = wikipedia.summary(arg, sentences=1, chars=100,
+
         auto_suggest=True, redirect=True)
         return definition
 
 chatbot.set_trainer(ChatterBotCorpusTrainer)
-chatbot.train("chatterbot.corpus.english")
+
 
 while True:
 
@@ -78,7 +77,8 @@ while True:
 
         elif message.content.startswith('!define'):
             words = message.content.split()
-            important_words = words[1:]
-            await client.send_message(message.channel, wiki_summary(important_words))
+            if words[0].lower() == "!define":
+                important_words = words
+                await client.send_message(message.channel, wiki_summary(important_words))
         
     client.run(os.getenv('TOKEN'))
