@@ -3,12 +3,15 @@ import asyncio
 import random
 import pickle
 import os
+import wikipedia
+
 import time
 from chatterbot.trainers import ChatterBotCorpusTrainer #method to train the bot
 from chatterbot import ChatBot # import the chat bot
 
 
 client = discord.Client()
+
 
 chatbot = ChatBot(
     'Endless',
@@ -39,10 +42,14 @@ chatbot = ChatBot(
     output_adapter="chatterbot.output.OutputAdapter",
     output_format="text",
 )
+def wiki_summary(arg):
+        definition = wikipedia.summary(arg, sentences=1, chars=100, 
+        
+        auto_suggest=True, redirect=True)
+        return definition
 
 chatbot.set_trainer(ChatterBotCorpusTrainer)
 chatbot.train("chatterbot.corpus.english")
-
 
 while True:
 
@@ -55,6 +62,7 @@ while True:
 
     @client.event
     async def on_message(message):
+
         if message.author == client.user:
             return
 
@@ -68,5 +76,9 @@ while True:
             localtime = time.asctime(time.localtime(time.time()))
             await client.send_message(message.channel, localtime)
 
+        elif message.content.startswith('!define'):
+            words = message.content.split()
+            important_words = words[1:]
+            await client.send_message(message.channel, wiki_summary(important_words))
         
     client.run(os.getenv('TOKEN'))
