@@ -6,6 +6,7 @@ import os
 from chatterbot.trainers import ChatterBotCorpusTrainer #method to train the bot
 from chatterbot import ChatBot # import the chat bot
 
+
 client = discord.Client()
 
 chatbot = ChatBot(
@@ -13,12 +14,13 @@ chatbot = ChatBot(
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
     database='./database.sqlite3',
     logic_adapters=[
-            'chatterbot.logic.MathematicalEvaluation',
-            'chatterbot.logic.TimeLogicAdapter',
+
             {
                 'import_path': 'chatterbot.logic.BestMatch',
                 'statement_comparison_function': 'chatterbot.comparisons.levenshtein_distance',
             }
+        'chatterbot.logic.MathematicalEvaluation',
+        'chatterbot.logic.TimeLogicAdapter',
     ],
     preprocessors=[
         'chatterbot.preprocessors.clean_whitespace'
@@ -58,4 +60,4 @@ while True:
                 await client.send_message(message.channel, response)
                 print(response)
 
-    client.run('NDUzNzE4MzAzMTI3NTAyODYw.DfjxRw.0Er48w6JASz8z9THirDyJTZy-LY')
+    client.run(os.getenv('TOKEN'))
