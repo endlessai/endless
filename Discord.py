@@ -27,10 +27,6 @@ chatbot = ChatBot(
                 'threshold': 0.65,
                 'default_response': 'I am sorry, but I do not understand.'
             },
-
-            {
-
-            }
     ],
     preprocessors=[
         'chatterbot.preprocessors.clean_whitespace'
