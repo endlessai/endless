@@ -8,7 +8,7 @@ import wikipedia
 import time
 from chatterbot.trainers import ListTrainer # List trainer
 from chatterbot import ChatBot # import the chat bot
-        
+
 
 def wiki_summary(arg):
     definition = wikipedia.summary(arg, sentences=1, chars=100,
@@ -51,9 +51,10 @@ chatbot = ChatBot(
 )
 
 chatbot.set_trainer(ListTrainer)
-chatbot.train(
-    "/files/conversations.txt/"
-)
+for _file in os.listdir('files'):
+    chats = open('files/' +_file, 'r').readlines()
+
+    chatbot.train(chats)
 
 
 while True:
@@ -86,11 +87,4 @@ while True:
             if words[0].lower() == "!define":
                 important_words = words
                 await client.send_message(message.channel, wiki_summary(important_words))
-        elif message.content.startswith('!wiki'):
-            return True
-        return False
-        request = message.content[6:]
-        response = Statement(wikipedia.summary(request,sentences=3))
-        await client.send_message(message.channel, response)
-
-    client.run('NDUzNzE4MzAzMTI3NTAyODYw.DfpBXQ.7kKOJEtDFXlgA_M-F0ky1rqDvPA')
+    client.run(os.getenv('TOKEN'))
