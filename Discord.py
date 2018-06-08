@@ -52,7 +52,7 @@ chatbot = ChatBot(
 
 chatbot.set_trainer(ListTrainer)
 chatbot.train(
-    "/files/conversations.txt/"
+    "https://raw.githubusercontent.com/endlessai/endless/master/files/conversations.txt"
 )
 
 
