@@ -1,13 +1,557 @@
-hi
-hello
-how are you?
-I'm fine thanks for asking
-How are you
-I'm fine.
-How was your day?
-It was great
-Awesome
-Yes, how's yours
-Mine was great.
-Did you watch the last movie tht was released?
-No, which one?
+Come on, witch! Loose your fires!
+This is a reprieve, witch. Judgement awaits you still.
+Talk to the Wizard then, Dwarf.
+Right. If you'd like, I can offer a few pointers, about you know, storytelling, later.  
+Guess word get around.
+Indeed, but I did not come here willingly. 
+Sorry. I've never been this close to an elf before. Fought on the same field as a few, but that's all.
+There is madness enough in the Empire, without these ratmen.
+Ah, but your quest may end someday. You might find Karak Zorn. My burden shall never fade.
+What brings you here, Elf? I demand to know. 
+Nothing personal, Wizard. It's just... you're a wizard. 
+You're not alone, Sergeant. 
+By you? I think not.
+Scrutinize all you want, One-Eye. Your kind will never find the sunlight flickering through the canopy.
+How do you mean?
+Why do you fear confinement so?
+A hand is of no help if it is raised against me.
+You are as much a danger to us as you are to the vermin, witch.
+It'll be ours again, Wutelgi. You wait and see.
+Eh, No comment. Why don't you just go kill some vermin, Elf.
+Thanks, I'll remember this, Azumgi
+You know, he had nothing to do with my investigation.
+A Taal-blessed blade will serve me well enough.
+Trust me with yours, a moment - I want to show you something, dwarf.
+�If� the trial was now, I'd tell the magistrate to kill some bloody rat-men, and not prattle about you. 
+Yeah, timed it perfectly too, just when you and the rat-men arrived. Bloody fantastic. 
+I'm not an imbecile. I've learned when to speak.
+You're an abomination, witch.
+Keep him away from the next one, mayflies. I've no desire to die in a blackfire explosion.
+Indeed, it has.
+Oh, don't you worry about my revenge, sir. 
+I didn't think the Order cared about the rat-men.
+You follow Taal, Sergeant.  Not so common in these parts, no?
+Your shackles can easily be restored, witch.
+Any success with the interrogations, sir?
+I met one like you before.
+I've never been as far as Estalia, pyromancer. What's it like?
+Sigmar protects only the worthy.
+..is where I am from, alright?
+Consider this an opportunity to prove your righteousness, witch.
+Be more careful, Goreksson...
+My questions have led me here, and I'm not leaving until I have my answers.
+Well, cease it immediately. My patience is wearing thin. 
+For starters. No one makes a fool of me, Wutelgi.
+For once, you have a point. 
+Did you hear about Kislev? They say it's overrun by northlanders.
+Takes some skill, missing all of them like that!
+You don't sound worried - I thought your realms were allies.
+No it doesnt, just like you and those shackles, I suppose!
+Then why tell me?
+I don't seek your approval, dwarf. Duty is its own reward.
+It was a shot blessed by Sigmar himself.
+It isn't magic I fear, but the corruption that comes with it.
+Impossible! I feel the strength of my ancestors flowing through me!
+Yes sir, but he started up again in a cleaner, blander area, you could say. 
+Any news of your kin, Kruber?
+Sir...
+Yes, what of it?
+Wot? Nothing simple about it
+Aye dawri, many times. They're like flies around dung.
+Whereas amongst mine, it's considered a curse.
+Have you travelled far, elf?
+You think he cares about innocence?
+Kruber, you know very well there was no time for an excursion to your family farm.
+Listen,  Kerillian, I don't mean to pry...
+Always know your enemy, Fire Wizard. 
+Right as always, Bardin.
+And what's to stop me from killing you, and fleeing into the night?
+Come on, thaggoraki! Will none of you brave my steel?
+Wise fellow, Sigmar.  Now come on, don't be shy. 
+Aye, well watch that Saltzpyre doesn't wring your neck. He might have the mood for it still.
+Yes. It's called Innocence.
+Don't lecture me, Goreksson!
+But that doesn't stop you does it? 
+Blindness is about more than sight. Fear closed his mind long ago.
+Argue another time. Do you want to bring the vermin down on us?
+I know what happened to your men, but I fail to see how I should be blamed for it.
+I don't see what concern that is of yours.
+I'm... looking for something. 
+Little in life is fair, dwarf. Consider this just one example.
+We have common cause. Can you not accept that?
+I've a mind to travel south, after this. See that forest of yours for myself.
+Flame purifies all.
+Did you hit any of them, Kruber?
+I'll not have you mock me, zealot!
+Do not let your concerns distract you, Sergeant. This is for the Empire. 
+Can't think how you keep missing it. Not exactly subtle architecture. Lost Hold, indeed.
+Hmm... you have a keen eye, Grimgi. We obviously know where we are with each other. 
+If I had kept my mouth shut like the rest of them, I'd made Captain a long ago. 
+A fine example of how it's done.
+Only if anyone knew, and my Order does not encourage sharing knowledge. That way leads to temptation.
+I thought the brute would never die!
+�If�, Sergeant.
+Have a care, elf, or I'll...
+I'm hungry.
+You are probably right about Saltzpyre. He didn't come here because of you. 
+He says he doesn't trust magery, but I think he's uncomfortable around women - unless they're bowing and scraping in abject fear, of course.
+Fall! Brute! Fall!
+I wouldn't expect an elf to understand.
+I've heard that one before. In an Altdorf tavern. The singer was drunk.
+Alright, alright, I'll tell you when I find it. Maybe. 
+Watch your step, Kruber. Need is fleeting, but zeal never tires.
+Careful with those bombs, Saltzpyre - we can't afford to waste them.
+The jig is up, Elf. 
+I'll wager good coin that there's an ambush ahead.
+I presume your incessant grumbling has to do with your reason for being here? 
+Now is as good time as any, Saltzpyre. Let's hear that tale. 
+You've fought the skaven before, haven't you, Goreksson?
+I'm not so sure. He did little to protect Ubersreik.
+That can't be true. I'd have heard, there'd be uproar!
+Could you teach me to shoot like that, elf?
+This is a waste of time.
+Like I said, nothing personal.
+It was well struck, all the same.
+But is corruption not just another name for weakness? Surely it is better to preach strength, than instil fear?
+Normally, I like being underground, but this place? It sets my nerves on edge.
+We march like thunder on the hills, to right the wrongs of old...
+No.
+False? Your barbarian god-king is nothing compared to the pantheon of heaven.
+I've rarely strayed beyond the Empire. I suppose it's too late now.
+*sigh* Only to you, Saltzpyre. Only to you.
+Your soul howls in a darkness of your own making.
+What you feel, Goreksson, is that pint of Estalian Brandy you drank earlier.
+Damn Antique Shop, just my luck the Thagorakki had it burned.
+Leave it be. There's nothing we could've done once the plague took hold.
+Aqshy gutters like a windblown candle, but Shyish gusts strong. Death is rising.
+Magic blows strong through here. There are voices scratching at my mind.
+Right... I'm happy to take him at his word.
+There is something going on with you, Elf.
+Aye - blood and bone makes for good root-mulch.
+It's not your steel they fear, but your breath.
+What is it that you call our Ranger... the Hold-seeker?
+But I've seen you...
+I can put an arrow in your leg, One-Eye? It might help you stay in the moment?
+This place stinks of evil magic.
+Not bad, Azumgi. Not as good as Cousin Okri, but it's a start.
+And you came back here?
+I....  I don't know what you are talking about.
+Something else, like...  one of us?
+I have never seen, or even heard of, something like it before. What you suffer...  It's some form of curse, isn't it?
+Maybe I was aiming for you!
+And if you had yours, recklessness would be the only law!
+Because I need your help, Sergeant. And because there is worse than temptation ahead of us.
+Hah! You elves revel in deceit and mystery.
+Magic is a crutch for weak minds.
+Saltzpyre believes it marks me as Chaos-spawn.
+I don't understand your fear of magic, One-Eye.
+Kruber, you don't like me very much do, you?
+You think I'm carting skaven tails around with me? Disgusting.
+Aye, one or two. L�wenhof was my favourite. Strong ale. Trusting folk. Heavy purses.
+Then hold tight to your moorings, and have a care not to be swept away.
+These are dark days, but at least Sylvania is caged.
+I have walked kingdoms you have no name for, through realms of dream and nightmare.
+What if he's right? Some days I feel stranded on a sea of magic, one that grows tempestuous with my anger.
+And you're determined to go where the next clue leads, wherever it may be?
+I only know that they need to die. No secrets there One-Eye.
+What of it?
+If you are so interested in the Skaven, why not talk to a Rat-catcher?
+Great heroes, manling, who fought back to back against the greenskins! 
+I hate this filthy city.
+These sewers will be thick with their nests. It's a rare city whose roots go ungnawed.
+He means that you're thirsty, more than hungry, so fret not,  you'll have your ale soon enough.
+I'll sing something else, shall I?
+I do. If the Dark Gods don't end you, your own foolishness is sure to do so.
+I bet losing that eye is a tale worth telling, manling!
+Common enough. My family is originally from Talabecland, so thats where that came from. 
+Elf, do not hold out on me. Share your knowledge of the Skaven.
+Indeed. It was, how do you say, a heartwarming experience.
+The geist-haunted lair is sealed? But how?
+You know the whereabouts of an Antique Shoppe, perhaps near the Marktplatz?
+I served in Ostland, got transferred from Reikland.
+Lohner's words ring of truth, the ratmen have the town surrounded.  One wouldn't make it far alone. 
+The trouble is, ice thaws, and the fires of damnation are raging.
+What are you talking about, Dwarf?
+They have seen much. More than they should, perhaps.
+The abomination falls.
+But you want to know why I am here, Sergeant? 
+You're a reasonable man, Sergeant.
+Only that you'll prove me correct. And that I do not die easily.
+It's better that way. When all hands are against you, the way forward is clear.
+Want me to throw the next one at you?
+Perhaps it is past time our realms stood as one with the humans.
+Do you know how Bretonnia fares?
+What are you betting with, anyway? You keep telling us you've no more coin.
+You believe her?
+One-Eye didn't care much for your family.
+I was in Tilea once - this was ages ago now - and they always talked of the ratmen as a curse. I should've listened.
+Aye, but could I trust your answer?
+Rat-men plague got them all. I'll grieve later. 
+Knowledge is a weapon in righteous hands. I pride myself that I wield it well.
+I know you want to check on your family's farm. Consider them dead, focus on revenge instead. 
+So are you, Wizard.
+There is a time to everything, Kruber. Nothing lasts forever.
+Something stirs with every rat-man you kill. I've started to sense it.   
+Rats everywhere. I'm sick of bloody rats.
+It's never too late to choose a new path, Kruber.
+Ah, hear the famous dwarf optimism. No wonder you lost an empire.
+I've fought my share of battles against the beastmen of the woods, but these ratmen are different.
+Aye, a good deal of them. And I might be mad, but not for the reasons they claim.
+I yield to your experience, mercenary.
+He deserved it. Good riddance.
+The world.
+The true moon is an aspect of Lileath. This was created in mockery of her.
+Mm - yes. You have earned my trust, Dwarf. Don't make me regret it. 
+What?
+So now you need me, Saltzpyre?
+Goreksson, what if the Hold you're seeking is nothing more than a myth, after all?
+You are fortunate in your quest, Gorreksson.
+Missed? Really? I suppose you're going to blame your short arms?
+We'll make the Thaggoraki pay, Kruber.
+Well, It wasn't me, if that's what you're asking.
+Indeed it is! A fine tale of grudges settled, and foemen lying like firewood on the mountainside.
+Is it my fault that Olesya's a devil at cards? She cheats, I swear.
+It's a rare time that it's not, but they'll pull through. The ice of Kislev does not crack.
+Oi!
+Good job burning the hell out of those rats, keep it up.
+Consider this your trial by combat. Have a care that you fight on the correct side.
+Hah! One-Eye throws better!
+Not bad, Wizard, Not bad.
+eh, right.
+I wouldn't dream of delegating such an inspiring task.  And don't mock the Sergeant's sense of duty.
+So, the old location of the Red Moon Inn was somewhere around here? 
+So, your kin, they all think you're mad, or somethin'? 
+Really? I feel the same about faith.
+I admire your dedication, Saltzpyre, if not your manner.
+Weave forgive me, for letting this evil take root.
+*angry spluttering*
+Zharrin, you could have melted those shackles whenever you wanted, am I right?
+*laughs* Master Dwarf, you'll turn my head.
+You see? That's fine axe-work, even if I do say so myself.
+For what it's worth, yes, I think so.
+I think he volunteered. Maybe he likes me, after all?
+Distrust requires doubt. Saltzpyre trades only in certainties - even when they're wrong.
+They kept you though? 
+Well, there's no sense being miserable, is there, Azumgi? Just because we're going to our deaths.
+Perhaps darkness is all that remains to us?
+Aye, well I've not had enough to drink - that's the trouble.
+Have a care, Wutelgi. I had ancestors die at Pine Crags.
+Ah, but which is that? Verminous anarchy on the one hand, hidebound law on the other.
+It's all grim business these days.
+No, but I do, Elf. 
+I confess to some small confusion.
+It is more than that. Can you not see that it's larger this night?
+Actually, I find fire an excellent equaliser. Ashes seldom quibble.
+Blindness is about more than sight. Fear closed his mind long ago.
+Sigmar's light will come again, if we are worthy of it.
+I shall endeavour to remember.
+When my every conjuration all but sets your breath alight, then it's my concern.
+I'm impressed, Grimgi. I've been fighting Skaven most of my life, but you almost know more about them than I do.
+Kerillian, about your purpose here...
+And yet you spend so much time at my side. There's no shame in admitting that you love me.
+You have wanderlust then? Your purpose is to travel?
+I wouldn't expect you to. Your mind is like a locked box, sealed with words learned by rote.
+It doesn't matter. We should press on.
+I can't argue. Did you hear of Shallya's temple in Altdorf?
+I'm not sure I see it. You've travelled to many of them.
+I used to. Then I realised that men are the same the world over.
+I recall a mention of elves.
+She means yes, I think.
+I can only agree, Sergeant 
+A right cheery one you are tonight, Zharrin.
+What now, One-Eye? 
+Neither did I, Wizard.
+Keep your arm straight if you want to hit anything, wizard!
+How about a friendly contest? He or she who collects the most tails, wins!
+Why so interested, Hold-Seeker?
+You seem to know these streets, Azumgi?
+Guess I'm letting my guard down. Sorry, won't happen again. 
+It crossed my mind.
+You're in good spirits, Gorreksson.
+Guess I'll just have to ask the Elf then. 
+How much did you drink, dwarf?
+What do you mean?
+My kind have been trying for millennia, and I bet the elf's lot have been at it even longer.
+Then we shall cleanse it, Goreksson, you and I.
+It does sound a little.. sketchy. I mean, a lost Dwarf hold. How do you lose a whole bloody hold? Heard they're enormous. 
+I guess not. 
+Even our cities are not our own. How long have these vermin been gnawing at us?
+Be more careful, Goreksson. Any further off course, and we'd all be dead.
+You 'demand'?  
+Don't weary our ears with this talk of false gods.
+It's alright, Grimgi, I'll help you along.
+Hold your tongue, witch. I don't wish to hear your heresies.
+You have reasons for leaving your kin that you do not speak of, which is noteworthy, considering how much you talk.
+Then why cling to prejudice and fears?
+The warherds are always driven by their bestial nature. They fight hard, but direct. The ratmen are cunning, clever.
+Wealthy merchant, a daughter, a Vampire in a warpstone mine, then add Skaven, blood and violence. There you have it. 
+Have a care, lest the slaughter doesn't end with dead rats.
+All the time.
+If you mean no, dwarf, just say so.
+Of course I'm right.
+I suppose you had a good reason for allowing One-Eye to shackle you, and not burn him to a crisp?
+You've encountered the Order before?
+We've hardly time for me to tell you everything I know that you don't, have we?
+Aye, well... Elves are somewhat present in the tale.
+Why not? You might hit the thaggoraki then!
+And some questions are best left unanswered, Sergeant
+I suppose.
+These are evil times.
+Fine? You've almost cut him to pieces.
+Try position and influence, and he's not the worst superior I've served. You're bloody clueless sometimes, you know that?
+I know what you're saying, Zharrin. I can't go back home yet. 
+Concerns, sir?
+There's a knack to those things, Saltzpyre. Watch me, next time I throw.
+Ah, you're a bit of a handful. aren't ya? 
+Not capable? You think I summon these flames with some hidden tinderbox, Waywatcher?
+Now that I've seen what your capable of, I understand why Saltzpyre wanted to escort you personally.
+Neither did you. 
+One monster to kill another, One-Eye?
+No *laugh*.  
+You're free to leave whenever you want, elf.
+That's it! Put up your blade, wazzok!
+There's something about him and the rat-men. The weave reacts. 
+Wutelgi, do I have to ask our Wizard to get a straight answer?
+So, this business of yours. anything I can help you with?
+One-Eye is not wrong to fear the Dark Gods. These vermin are the least of their agents.
+Then why don't you?
+They don't believe me. They think I'm tricking them into a confession.
+Sounds like a cheerful ballad.
+This awful city... 
+If we had a decade of uninterrupted practice? No. Not even then.
+Couldn't be much worse.
+Someone with a bad sense of humour, Hold-Seeker?
+It's just Morrsleib, it comes and goes with the seasons.
+Free to leave, but not free to return.
+Denying us, the fighting men, any knowledge about the magic we'll face on the battle field, sending us in totally unprepared. That's a crime if anything. 
+I've come to realise something. 
+Bardin, these are dark times, and the Dwarfs I know are... 
+What do you mean? 
+You can't blame yourself. How were you to know that this was one Tilean tale you should have believed?
+Don't mock me, elf!
+I don't get it, Sir. You're an Empire official - who speaks freely of the rat-men. 
+His axe shone silver in the dark, his brow was wrathful bold...
+Heh, so he claims, but I have unattended business here, anyway. 
+Such needless suspicion. No wonder your Empire falls into decay.
+Not one? Saltzpyre? Not a single one?
+Sergeant, you're staring.
+Too long. Hold fast, Kruber. We'll strike a blow here, I promise you that.
+You will be judged, witch, have no doubt.
+You sure?
+Such a poor sense of humour. Matches your eyesight.
+I need your flames! There are vermin to burn.
+A rare miss, dwarf.
+There is no absolution for what you are. Be grateful for this small mercy.
+Of course I talk to Bardin. The Dwarfs are a valuable ally and a fine soure of information regarding this matter. 
+If it came down to it, I doubt you'd have the guts to face me. One-Eye. You'd set your dog on me, instead. 
+This is a bleak place. It stinks of ruin and the collapse of empires.
+Yeah, against an army of monsters that's not even supposed to exist. 
+That's no surprise. I'm amazed you had the sense to remove them.
+Do not listen to One-Eye, pyromancer. Yours is a gift that should be embraced, not feared.
+It is only because Sigmar teaches us to respect the Dwarfs, that I even consider to indulge you.
+Watch the rakogri burn! A magnificent sight!
+Kruber, if my trial was now, and if you'd be allowed to have your say... 
+Who will provide them? The dead or the rats?
+Much the same as it is here. It's filthy, and ruled by fools.
+Magic will not solve all your problems, witch.
+They have a plan.
+*growl*
+I am like the wind on the fields. To cage me is to rob me of purpose.
+Foolish mayflies.
+All that slander of your superiors had me worried for awhile. Futility of war, was it?
+My uncle's house is a smoking ruin.
+Hehe, you don't miss it then?
+And here I was, thinking we were mates now.
+So we're allies now, Saltzpyre? I thought I was due a trial.
+Tell me you feel it? The Weave shudders. I fear what comes next.
+You missed! Do you earn much money as a professional soldier?
+How my heart quails at the thought.
+Or possibly your singing.
+My purpose is to choose my purpose. A cage grants only a single, stale path.
+There's still something you're not telling us, isn't there, elf?
+Dwarf and Elf, fighting Thaggoraki in a Manling town, who would have thought?
+It's hardly my concern if two groups of mayflies fall to brawling with one another.
+Yes, your family. Are you still thinking about heading for their farm?
+You mean the Burgomeister?
+Don't trust me yet, Saltzpyre?
+It doesn't bloody feel like it sometimes.
+Careful Sergeant, It's almost like you're getting used to me 
+That's not for me to say, but your eyes are harder than I'd have reckoned on.
+Yeah, the question has crossed my mind.
+Karak Zorn is as real as my beard, trust me on that. 
+*snarl of irritation*
+You could always ask me, dwarf. Maybe I know where it lies.
+One of the Silent Sisters went insane - gutted and ate her fellows. Scrawled dark runes in their blood.
+Don't mock. She is tied closer to the world than we will ever be.
+Shame to see the city so forlorn. There's a charm to these human settlements.
+Enough! Both of you!
+You're less secretive than others of your kind, Saltzpyre
+Sergeant, you do realize there's a diffence between fire magic and necromancy?
+No you're not.
+I think you did it. You burned that fat tyrant.
+Who's she talking to?
+ If I truly thought it was my face that bothered you, I'd wear a hood.
+My condoleances, Kruber.
+That's it exactly - they have a plan.
+Perhaps both are right. Gifts can spring from many sources, not all of them wholesome.
+I promised no such thing!
+Sienna, I didn't expect your kind to be capable of .. seeing what you saw.
+Hah! Among my kin, It's mostly wrong as always, Bardin
+Order business is not your business, Kruber. And you should thank the comet for that. 
+*laughs* You sure know how to take the joy out of a conversation, Hold-seeker.
+Whatever your nefarious purpose, 'tis only a matter of time until I learn of it.  And colluding with the Fire Witch will only make matters worse.
+I suppose it's cause you know I'll win
+Oh, really? During the ambush, or when the dwarfs threw down their weapons and begged for mercy?
+You're never tempted to let it keep burning?
+I daresay it thinks little of you, elf.
+You know, I think the elf's right.
+Aye, grew up on a farm not far from here. 
+I'll not take that bet, Azumgi, not the way our luck's been going.
+You know why I stick around, only fair I know the same about you.
+If we survive this, I'll have runesmith cast you a sword of good mountain steel.
+Sienna, you think we can we trust Kerillian?
+It gives Saltzpyre certainty. I prefer to trust, until someone wrongs me.
+I'll tell tales when all the Vermin are dead, Dwarf. Onwards! 
+I don't wish to speak of it.
+I'm a bladesman by trade, not a bombardier.
+Didn't you catch a Stormvermin, awhile back? 
+A fine night for slaughter, eh, dawri?
+Yeah, Engelbrecht's Curiosities, on Kugelstrasse. If it's still standing. 
+Goreksson, care to enlighten us on what it is you seek,exactly?
+Filthy thing. I never want to touch one again.
+You walk a righteous path for the moment, but that will change.
+You are far from home, Kerillian
+Well, we can't all be elves, can we?
+If I wanted you dead, One-Eye, you'd be been wormfood long ago.
+Seems we're all sticking around so far. Guess we all have our reasons. 
+If your masters had their way, we'd all dwell in squalor.
+Can we defeat them? Once and for all, I mean?
+Why does One-Eye hate you so? I've known dwarfs less single-minded.
+Do not betray my trust, witch. Your shackles can easily be restored.
+We'll not see such a day. We cultivate distrust as a farmer cultivates his crops.
+I'm warning you, Wutelgi...
+So, how come are we blessed with your company, Master Goreksson?
+A momentary lapse. Nothing more.
+Shoddy human umgak. Showing me up in front of the elf.
+I give it life, then I smother the blaze before it runs wild.
+Talk about a dramatic turn of events. 
+Mmh, you mean first guard and prisoner, then you and I fighting on the same side?
+Coin is the reason you allow him to push you around?
+I think I know my own stomach, thank you, Kruber.
+Thought he was looner first. Well... still do, but.. 
+Yes, Zharrin, wherever it may be! 
+I have no idea who they are.
+There is no evil magic. Just the cause to which it is put. Magic is much like faith, that way.
+He hired me. 
+You should not let One-Eye worry you so, pyromancer. His is a small mind.
+At last, we agree on something, witch.
+Should I be honoured to be the source of your quandary?
+No one's asking you to eat them, Kruber. Just kill them.
+*lies* I saw one limp away.
+I confess, I didn't think that would bring it down, Grimgi.
+We've only caught the scum of their kind. No leaders, only mindless drones. 
+Cousin Okri reckons that rat tastes like rotten chicken.
+Never will.. A witch wears many faces, some seem more honourable than others.
+Sigmar protects us.
+This is a right old mess, and no mistake. I should make for the hills, find my kin.
+You see that? Right in the rakogri's eye!
+Watch it, you two. I don't like where this conversation is going. 
+Better be quick about it, hold-seeker. The days are growing dark.
+Well struck, Azumgi! We're like Hrothi and Balgor at Karaz a Karak!
+Saltzpyre believes it marks me as Chaos-spawn.
+You haven't asked me to join the game. I know you keep count of your kills.
+Truly? That's not what I hear.
+This is a grim business, dawri.
+Ubersreik is my home, and you bloody well know I'll fight for it. 
+Kruber, why do you follow One-Eye?
+I have decided that you shall not face trial. Not yet.
+Still you pester the rest of us. We don't know more than you do, just accept it. 
+No, not at the moment. Dwarf matters.
+Friendship takes time, azumgi. Let it steep awhile.
+The next one'll be better, Azumgi!
+Its knights fight amongst themselves, they quarrel over which undead king should rule.
+Why do you call it false?
+Killing the rat-men draws magic to her. It serves some purpose. I haven't seen what happens when she kills something else, though.
+It was a lucky shot, that's all.
+Let us hope they sing better than you, then, hold-seeker.
+And do I disappoint? You were expecting something more otherworldly? Of shimmering lights and soothing song?
+Valaya's Chalice! That takes some skill, missing them all.
+You're not the first Elf to threaten me, and those who did, paid for it dearly. Remember that, Elf.
+Don't bloody miss, then, Grimgi!
+Can't say I trust magic, but I don't hate it like Grimgi does.
+What's with the Ostland colours, Azumgi?
+One less monster in the world.
+I guess the rest of us don't know Goreksson as well as you do. Which is a bit of surprise.
+Think we all saw it in your eyes, for a short while there.
+I think our elf finally found herself a challenge.
+*loud sigh* I'm no storyteller, Dwarf!
+Not at all. Just know that I am on to you. 
+I had a cousin who throws like that. We don't trust him with an axe.
+Another of the Order?
+Once, this land belonged to my kind. It will do so again.
+He's been right about a lot of things lately. More than I care for.
+You know why I'm in this bloody town, Wutelgi. To share your purpose is only fair.
+The Empire will never fall.
+A god of wilderness? What does he know of forging weapons?
+Aye, but it makes for a lonely road without comrades, Grimgi.
+No, no, Kruber. I need a rat-man of much higher rank. Something far more sinister. 
+Some wizard's trick, I hear. The Supreme Patriarch himself. I doubt it'll last.
+You think humanity is doomed?
+Stout heart *and* stout aim! You make me proud, Azumgi!
+No. One of my kind. She too was convinced that she did holy work, and measured her success in blood.
+Defied by technology, elf?
+The rat-men just keep coming, and it won't end soon, so how about that tale about your eye that you promised me? 
+Since you're so eager to learn about the Skaven, why don't you ask Bardin? 
+Do tell.
+The false moon watches us like an evil eye.
+Saltzpyre seems to have a special interest in the rat-men
+Time for what, Ranger?
+Where's the skill you keep boasting of, elf?
+Ah, good point, Zharrin. I shall endeavour to not exhale. 
+Now is as good time as any, Saltzpyre.
+That almost sounded like a compliment, Saltzpyre.
+Surprised, One-Eye?
+Amongst my people, magic is considered a gift.
+You missed all of them, dwarf. That takes a special talent.
+Ah, that's just the elf complaining. Ignore her - that's what I do.
+Aye, well. He wouldn't hold still, would he?
+I think there is more to it than a simple hold hunt, Goreksson.
+The fire isn't something I control.
+Which I wouldn't, Wizard.
+Yes.
+How do you know?
+Will this darkness never end? Even my fires do little to penetrate it.
+Now I think of it, I'm sure I was at Karak Zorn, not - oh - five decades ago.
+I'm honestly trying not to, Wizard.  
+That moon bodes ill for us all.
+I'm saying, Zharrin, that's it's too early to tell. Not all labours can be accomplished in a lifetime.
+It was more... gambling. I have a knack for it. 
+I think our elf ate something that doesn't agree with her.
+Kruber has a soldier's instinct, right enough.
+Quiet, hold-seeker.
+A warming fire is a good friend in dark times, Zharrin. As are you.
+A fine excuse for inaction. Gods should care more about their folk.
+Well, I wanted action.
+Of course, as they were dwarfs, one was probably drunk, and the other there by accident.
+Such compliments, hunter. You'll turn my head.
+Much as I'm glad you set me free, I think I'd prefer a nice, quiet cell.
+No expulcation, just a reprieve?
+And then you hack his legs off?
+You'd turn away a helping hand, even amongst this?
+*snort* Your burden of proof shifts with the wind, and smells of dung.
+*snarl of irritation*
+Didn't take long for your fighting spirit to return, Kruber
+No game, and unless you be quiet, no Dwarf.
+Do not listen to One-Eye, pyromancer. Yours is a gift that should be embraced, not feared.
+Nothing wrong with that. The Doom of Broggi Stonehand's a fine song to go with an ale or twelve.
+And you'd be welcome.
+If your squawking wasn't so distracting...
+Let her be, sir. She revels in her mysteries. Perhaps it's to hide a lack of substance.
+You are currently within the borders of the Empire of Sigmar, and therefore under my scrutiny and jurisdiction. 
+Good! No one ever sings about uneventful days, and I'd like my kin to sing of my deeds.
+Not so clever with real weapons, witch?
+So you robbed them? Ah, there may be hope for you yet!
+You speak like there's skill to that clumsy weapon. Point and loose, that's all it is.
+Did you heard that the old Red Moon Inn was here round the Docks? It burnt down to the ground. 
+These are strange times. 
+That'll have them running in hear, and no mistake!
