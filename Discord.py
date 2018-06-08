@@ -51,9 +51,10 @@ chatbot = ChatBot(
 )
 
 chatbot.set_trainer(ListTrainer)
-chatbot.train(
-    "https://raw.githubusercontent.com/endlessai/endless/master/files/conversations.txt"
-)
+for _file in os.listdir('files'):
+    chats = open('files/' +_file, 'r').readlines()
+
+    chatbot.train(chats)
 
 
 while True:
