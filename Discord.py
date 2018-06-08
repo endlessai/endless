@@ -51,10 +51,10 @@ chatbot = ChatBot(
 )
 
 chatbot.set_trainer(ListTrainer)
-chatterbot.train(
+chatbot.train(
     "./files/conversations.txt/"
 )
-    chatbot.train(chats)
+
 
 while True:
 
