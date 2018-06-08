@@ -52,7 +52,7 @@ chatbot = ChatBot(
 
 chatbot.set_trainer(ListTrainer)
 chatbot.train(
-    "./files/conversations.txt/"
+    "/files/conversations.txt/"
 )
 
 
