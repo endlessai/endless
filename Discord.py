@@ -51,8 +51,9 @@ chatbot = ChatBot(
 )
 
 chatbot.set_trainer(ListTrainer)
-for _file in os.listdir('files'):
-    chats = open('files/' +_file, 'r').readlines()
+chatterbot.train(
+    "./files/conversations.txt/"
+)
     chatbot.train(chats)
 
 while True:
