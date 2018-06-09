@@ -6,7 +6,7 @@ import os
 import wikipedia
 
 import time
-from chatterbot.trainers import ListTrainer # List trainer
+from chatterbot.trainers import ChatterBotCorpusTrainer # Corpus
 from chatterbot import ChatBot # import the chat bot
 
 
@@ -49,12 +49,10 @@ chatbot = ChatBot(
     output_adapter="chatterbot.output.OutputAdapter",
     output_format="text",
 )
-
-chatbot.set_trainer(ListTrainer)
-for _file in os.listdir('files'):
-    chats = open('files/' +_file, 'r').readlines()
-
-    chatbot.train(chats)
+chatterbot.set_trainer(ChatterBotCorpusTrainer)
+chatterbot.train(
+    "chatterbot.corpus.english",
+)
 
 
 while True:
