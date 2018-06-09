@@ -49,8 +49,8 @@ chatbot = ChatBot(
     output_adapter="chatterbot.output.OutputAdapter",
     output_format="text",
 )
-chatterbot.set_trainer(ChatterBotCorpusTrainer)
-chatterbot.train(
+chatbot.set_trainer(ChatterBotCorpusTrainer)
+chatbot.train(
     "chatterbot.corpus.english",
 )
 
