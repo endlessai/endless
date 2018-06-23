@@ -23,7 +23,7 @@ client = discord.Client()
 chatbot = ChatBot(
     'Endless',
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
-    database='./endless.sqlite3',
+    database='./public/endless.sqlite3',
     logic_adapters=[
 
             {
